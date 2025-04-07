@@ -1,0 +1,7 @@
+path: C:/Users/Marcus/Documents/braintumor/my_model/custom_data
+train: C:/Users/Marcus/Documents/braintumor/my_model/data/train
+val: C:/Users/Marcus/Documents/braintumor/my_model/data/validation
+nc: 2
+names:
+- Brain Tumor
+- Healthy Brain
